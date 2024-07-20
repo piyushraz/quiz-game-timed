@@ -16,11 +16,11 @@ This is a simple timed mathematical quiz game implemented in Golang. The quiz ru
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/timed-math-quiz.git
+    git clone https://github.com/yourusername/quiz-game-timed.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd timed-math-quiz
+    cd quiz-game-timed
     ```
 
 ### Usage

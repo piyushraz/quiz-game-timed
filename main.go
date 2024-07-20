@@ -26,7 +26,6 @@ func main() {
 		exit("Couldn't Parse the CSV File Provided.")
 	}
 	problems := parseLines(lines)
-
 	timer := time.NewTimer(time.Duration(*timeLimit) * time.Second)
 
 	correct := 0
